@@ -5,8 +5,8 @@
 
         // Defaults
         var settings = $.extend({
-            'time': 400,
-            'delay': 10
+            'time': 200,
+            'delay': 5
         }, options);
 
         return this.each(function () {
